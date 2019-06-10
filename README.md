@@ -1,4 +1,4 @@
-Added Feautere's Technical Design Document:
+Added Feature's Technical Design Document:
 https://docs.google.com/document/d/1OggUoRg4Onk1Z9sPkecYUSAJPVrLGy2DZN8aMf4PNi8/edit?usp=sharing
 
 
